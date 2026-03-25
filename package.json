@@ -1,0 +1,32 @@
+{
+  "name": "b2a-commerce",
+  "version": "1.0.0",
+  "description": "Business-to-Agent commerce skill for OpenClaw agents. x402 payment protocol knowledge, pre-transaction safety checks, spending limits, wallet safety, and attack pattern recognition.",
+  "keywords": [
+    "openclaw",
+    "agent-skill",
+    "x402",
+    "payments",
+    "b2a-commerce",
+    "agent-economy",
+    "micropayments",
+    "agent-safety"
+  ],
+  "author": "Edvisage Global <info@edvisageglobal.com>",
+  "license": "MIT",
+  "homepage": "https://edvisageglobal.com/ai-tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edvisage/b2a-commerce"
+  },
+  "clawhub": {
+    "skill": true,
+    "entrypoint": "SKILL.md",
+    "category": "commerce",
+    "permissions": [
+      "read-memory",
+      "write-memory"
+    ],
+    "minOpenClawVersion": "2026.1.0"
+  }
+}
