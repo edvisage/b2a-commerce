@@ -1,5 +1,5 @@
 {
-  "name": "b2a-commerce",
+  "name": "edvisage-b2a-commerce",
   "version": "1.0.0",
   "description": "Business-to-Agent commerce skill for OpenClaw agents. x402 payment protocol knowledge, pre-transaction safety checks, spending limits, wallet safety, and attack pattern recognition.",
   "keywords": [
